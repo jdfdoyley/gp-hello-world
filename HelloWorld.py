@@ -1,0 +1,7 @@
+print("jasdoy5736")
+print("Hello World, my name is Jason D'Oyley")
+print("I am a student at ECPI University")
+print("I have being writing code since 2010.")
+print("I enjoy writing code and learning new concepts.")
+print("My goal is to solve problems with Python")
+print("I hope to also incorperate AI and ML in my solutions")
